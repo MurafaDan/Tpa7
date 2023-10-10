@@ -35,5 +35,10 @@ employee1.printInfo();
       invoice1.setPrice(5555d);
 
 invoice1.getAmount();
+
+
+        System.out.println("EX3----------------------------------------------------");
+        //in progress :D
+
     }
 }
